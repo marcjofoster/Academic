@@ -52,7 +52,7 @@ params:
           title: Marc Foster
           subtitle: "I am a PhD student at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution studying envrionmental chemistry."
           imageUrl: "IMG_0176.jpg"
-          imageWidth: 160
+          imageWidth: 240
           imageHeight: 240
           imageTitle: Marc Foster
           buttons:
