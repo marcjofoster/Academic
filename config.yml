@@ -54,7 +54,7 @@ params:
           imageUrl: "IMG_0176.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Marc Foster
           buttons:
             - name: Papers
               url: papers/
