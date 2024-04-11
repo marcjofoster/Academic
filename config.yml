@@ -1,5 +1,5 @@
 baseURL: "https://marcjofoster.github.io" 
-title: Prof. Name
+title: Marc Foster
 paginate: 20
 theme: PaperMod
 
@@ -25,9 +25,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a PhD student at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution studying envrionmental chemistry."
+    author: Marc Foster
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,8 +49,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Marc Foster
+          subtitle: "I am a PhD student at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution studying envrionmental chemistry."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -73,21 +72,19 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: fosterm@mit.edu
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=O4dazRoAAAAJ&hl=en
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/marcjo_foster
 
     assets:
         disableHLJS: true
